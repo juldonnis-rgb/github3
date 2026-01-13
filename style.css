@@ -66,9 +66,9 @@
             transition: opacity 0.3s;
         }
 
-         a:hover {
+         .nav-links a:hover {
             opacity: 0.6;
-            color : #0071e3;
+            color : #154fcd;
         }
 
    
@@ -115,8 +115,8 @@
         }
 
         .cta-button:hover {
-            background-color: #e4e4e4;
-            background-color: #0a84ff;
+            background-color: #e1ff00;
+            background-color: #f2ff02;
         }
 
   
@@ -554,5 +554,4 @@
     }
 }
     
-
 
